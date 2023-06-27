@@ -1,0 +1,30 @@
+C:\Users\renan\OneDrive\Documentos\CSharpTest\bin\Debug\net7.0\CSharpTest.exe
+C:\Users\renan\OneDrive\Documentos\CSharpTest\bin\Debug\net7.0\CSharpTest.deps.json
+C:\Users\renan\OneDrive\Documentos\CSharpTest\bin\Debug\net7.0\CSharpTest.runtimeconfig.json
+C:\Users\renan\OneDrive\Documentos\CSharpTest\bin\Debug\net7.0\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\CSharpTest\bin\Debug\net7.0\CSharpTest.pdb
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\refint\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.pdb
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\CSharpTest.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Documentos\CSharpTest\obj\Debug\net7.0\ref\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\bin\Debug\net7.0\CSharpTest.exe
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\bin\Debug\net7.0\CSharpTest.deps.json
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\bin\Debug\net7.0\CSharpTest.runtimeconfig.json
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\bin\Debug\net7.0\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\bin\Debug\net7.0\CSharpTest.pdb
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\refint\CSharpTest.dll
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.pdb
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\CSharpTest.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Documentos\Average Calculator C#\obj\Debug\net7.0\ref\CSharpTest.dll
